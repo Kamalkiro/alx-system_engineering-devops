@@ -1,6 +1,6 @@
 #!/bin/bash
 
-"$1"=gigi
+gigi="$1"
 
 git add .
 git commit -m "gigi"
